@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+SQL | porque son datos estructurados y bien indexados por fecha y hora.

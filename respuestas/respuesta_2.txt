@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+NoSQL | porque maneja datos con estructura variable y flexible.
