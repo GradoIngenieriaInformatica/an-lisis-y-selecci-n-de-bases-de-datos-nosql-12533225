@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+NoSQL | porque trabaja con relaciones complejas entre nodos (modelo tipo grafo).
